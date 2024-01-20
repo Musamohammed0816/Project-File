@@ -1,0 +1,59 @@
+body{
+    background-image: url("re.jpg");
+    background-size: cover;
+}
+
+
+.first {
+    /* width: 1024px;
+    height: 118px;
+    background-color: blue; */
+}
+
+.second {
+    width: 1024px;
+    height: 40px;
+    background-color: rgba(0, 0, 0, 0.425);
+}
+
+.third {
+    width: 1024px;
+    height: 400px;
+    /* background-color: rgb(53, 92, 53); */
+}
+
+.fourth {
+    width: 1024px;
+    height: 500px;
+    /* background-color: yellow; */
+}
+
+.fifth {
+    width: 1024px;
+    height: 40px;
+    background-color: rgba(0, 0, 0, 0.596);
+}
+nav a{
+    color: white;
+    text-decoration-line: none;
+    padding: 0px 5px;
+}
+nav{
+    padding: 10px;
+}
+.third h1{
+    color: white;
+    padding: 90px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.third p{
+    color: white;
+    width: 700px;
+}
+.third a{
+    color: white;
+}
+.fifth p{
+    color: rgb(141, 137, 137);
+    padding: 10px;
+}
